@@ -8,19 +8,19 @@ namespace Drawing.Figures
 {
     public class Triangle : Figure
     {
-        public override string ToString()
-        {
-            return "Triangle";
-        }
+        protected Point[] myPointArray = { new Point(), new Point(), new Point() };
 
-        public override void SetCoordinates(int X, int Y)
+        public override Point[] Coordinate
         {
-            myPointArray[0] = new Point(X, Y);
-            myPointArray[1] = new Point(X, Y + 60);
-            myPointArray[2] = new Point(X + 60, Y);
-            myPointArray[3] = new Point(X + 60, Y);
-            myPointArray[4] = new Point(X + 60, Y);
+            get { return myPointArray; }
 
+            set
+            {
+                myPointArray[0] = value[0];
+                myPointArray[1] = value[1];
+                myPointArray[2].X = value[0].X - 20;
+                myPointArray[2].Y = value[0].Y;
+            }
         }
     }
 }

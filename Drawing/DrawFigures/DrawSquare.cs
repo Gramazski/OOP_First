@@ -10,7 +10,7 @@ namespace Drawing.DrawFigures
     {
         public override void Display(Graphics canvas, Pen pen)
         {
-            canvas.DrawRectangle(pen, CurrFigure.Coordinates.X, CurrFigure.Coordinates.Y, 40, 40);
+            canvas.DrawPolygon(pen, CurrFigure.Coordinate);
         }
     }
 }

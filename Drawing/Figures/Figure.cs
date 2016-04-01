@@ -8,12 +8,16 @@ namespace Drawing.Figures
 {
     public class Figure
     {
-        public Point Coordinates = new Point(0, 0);
-        public Point[] myPointArray = { new Point(), new Point(), new Point(), new Point(), new Point() };
+        protected Point[] Coordinates = { new Point(0, 0), new Point(0, 0) };
 
-        public virtual void SetCoordinates(int X, int Y)
+        public virtual Point[] Coordinate
         {
-            Coordinates = new Point(X, Y);
+            get { return Coordinates; }
+
+            set
+            {
+                Coordinates = value;
+            }
         }
     }
 }

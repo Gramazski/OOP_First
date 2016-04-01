@@ -8,18 +8,23 @@ namespace Drawing.Figures
 {
     public class Pentagon : Figure
     {
-        public override string ToString()
-        {
-            return "Pentagon";
-        }
+        protected Point[] myPointArray = { new Point(), new Point(), new Point(), new Point(), new Point() };
 
-        public override void SetCoordinates(int X, int Y)
+        public override Point[] Coordinate
         {
-            myPointArray[0] = new Point(X, Y);
-            myPointArray[1] = new Point(X, Y + 60);
-            myPointArray[2] = new Point(X + 60, Y);
-            myPointArray[3] = new Point(X + 80, Y + 80);
-            myPointArray[4] = new Point(X + 20, Y + 20);
+            get { return myPointArray; }
+
+            set
+            {
+                myPointArray[0] = value[0];
+                myPointArray[1].X = value[0].X;
+                myPointArray[1].Y = value[0].Y + 40;
+                myPointArray[2] = value[1];
+                myPointArray[3].X = value[1].X - 40;
+                myPointArray[3].Y = value[1].Y;
+                myPointArray[4].X = value[1].X + 80;
+                myPointArray[4].Y = value[1].Y + 80;
+            }
         }
     }
 }

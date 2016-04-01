@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Drawing.DrawFigures.DrawerList" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\DrawerList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.Circle" Collapsed="true">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.Figure" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAACAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.FigureList" Collapsed="true">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\FigureList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.Line" Collapsed="true">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.Pentagon" Collapsed="true">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Pentagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.Rectangle" Collapsed="true">
+    <Position X="12.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.Square" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Figures.Triangle" Collapsed="true">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.DrawFigures.DrawCircle" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\DrawCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.DrawFigures.DrawLine" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\DrawLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.DrawFigures.DrawPentagon" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\DrawPentagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.DrawFigures.DrawRectangle" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\DrawRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.DrawFigures.DrawSquare" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\DrawSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.DrawFigures.DrawTriangle" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\DrawTriangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing.Drawer" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgABAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawFigures\Drawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

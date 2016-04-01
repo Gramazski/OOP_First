@@ -7,9 +7,5 @@ namespace Drawing.Figures
 {
     public class Line : Figure
     {
-        public override string ToString()
-        {
-            return "Line";
-        }
     }
 }

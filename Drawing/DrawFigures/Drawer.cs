@@ -18,7 +18,6 @@ namespace Drawing
 
         public virtual void Display(Graphics canvas, Pen pen)
         {
-
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Drawing.DrawFigures
     {
         public override void Display(Graphics canvas, Pen pen)
         {
-            canvas.DrawLine(pen, CurrFigure.Coordinates.X, CurrFigure.Coordinates.Y, CurrFigure.Coordinates.X + 50, CurrFigure.Coordinates.Y);
+            canvas.DrawLine(pen, CurrFigure.Coordinate[0].X, CurrFigure.Coordinate[0].Y, CurrFigure.Coordinate[1].X, CurrFigure.Coordinate[1].Y);
         }
     }
 }

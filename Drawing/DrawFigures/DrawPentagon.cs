@@ -10,7 +10,7 @@ namespace Drawing.DrawFigures
     {
         public override void Display(Graphics canvas, Pen pen)
         {
-            canvas.DrawPolygon(pen, CurrFigure.myPointArray);
+            canvas.DrawPolygon(pen, CurrFigure.Coordinate);
         }
     }
 }

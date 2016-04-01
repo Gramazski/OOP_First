@@ -6,3 +6,11 @@ c:\users\gs\documents\visual studio 2010\Projects\Drawing\Drawing\obj\x86\Debug\
 c:\users\gs\documents\visual studio 2010\Projects\Drawing\Drawing\obj\x86\Debug\Drawing.exe
 c:\users\gs\documents\visual studio 2010\Projects\Drawing\Drawing\obj\x86\Debug\Drawing.pdb
 C:\Users\gs\Documents\Visual Studio 2010\Projects\Drawing\Drawing\obj\x86\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\obj\x86\Debug\Drawing.exe
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\obj\x86\Debug\Drawing.pdb
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\bin\Debug\Drawing.exe
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\bin\Debug\Drawing.pdb
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\obj\x86\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\obj\x86\Debug\Drawing.Form1.resources
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\obj\x86\Debug\Drawing.Properties.Resources.resources
+C:\Users\gs\Documents\GitHub\OOP_First\Drawing\obj\x86\Debug\Drawing.csproj.GenerateResource.Cache
